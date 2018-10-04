@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [PINPAILOY](https://github.com/pinpailoy)
+- Place: BKK, TH
+- Bio: TRUST ME I'M QA ENGINEER :)
+- Github: [PINPAILOY](https://github.com/pinpailoy)
